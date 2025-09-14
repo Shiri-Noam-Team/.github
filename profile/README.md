@@ -4,4 +4,5 @@ Welcome to our team!
 
 ### Our collaborative projects:  
 
-- 📊 [Statistics Project](https://github.com/Shiri-Noam-Team/Age-vs-Sleep-Duration)
+- 📊 [Statistics Project](https://github.com/Shiri-Noam-Team/Age-vs-Sleep-Duration).
+- 🎨 [UI/UX Project](https://github.com/Shiri-Noam-Team/StudyBuddy).
